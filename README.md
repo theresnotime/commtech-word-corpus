@@ -1,1 +1,1 @@
-# commtech-word-corpus
+# Word testing corpus for the [IPA audio renderer wish](https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Reading/IPA_audio_renderer/TTS_investigation)
