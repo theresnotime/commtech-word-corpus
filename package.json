@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  },
+  "scripts": {
+    "test": "prettier --check data.json"
+  }
+}
