@@ -2,9 +2,9 @@ name: Test JSON
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   test:
@@ -13,16 +13,16 @@ jobs:
     strategy:
       matrix:
         node-version: [18.x]
-    
+
     steps:
-    - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
 
-    - name: Test
-      run: |
-        npm install
-        npm test
+      - name: Test
+        run: |
+          npm install
+          npm test
