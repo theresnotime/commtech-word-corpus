@@ -330,6 +330,42 @@
       "ipa": "emanuˈɛle",
       "lang": "Italian",
       "lang-iso": "it-IT"
+    },
+    "Nayarit": {
+      "word": "Nayarit",
+      "ipa": "naʝaˈɾit",
+      "lang": "Spanish",
+      "lang-iso": "es-ES"
+    },
+    "ósculo": {
+      "word": "ósculo",
+      "ipa": "ˈoskulo",
+      "lang": "Spanish",
+      "lang-iso": "es-ES"
+    },
+    "niña": {
+      "word": "niña",
+      "ipa": "ˈniɲa",
+      "lang": "Spanish",
+      "lang-iso": "es-ES"
+    },
+    "chihuahua": {
+      "word": "chihuahua",
+      "ipa": "t͡ʃiˈwawa",
+      "lang": "Spanish",
+      "lang-iso": "es-ES"
+    },
+    "consuelo": {
+      "word": "consuelo",
+      "ipa": "konˈswelo",
+      "lang": "Spanish",
+      "lang-iso": "es-ES"
+    },
+    "caramel": {
+      "word": "caramel",
+      "ipa": "ˈkærəmɛl",
+      "lang": "English",
+      "lang-iso": "en-US"
     }
   }
 }
